@@ -1,0 +1,13 @@
+{
+	"temp_output": "../data/",
+	"python-command":"python3",
+	"dateFrom" : "2017-05-14",
+	"dateTo" : "" ,
+	"publishers" :
+	[
+		{
+			"userName": "AndroidPIT.br",
+			"name": "AndroidPIT BR"
+		}
+	]   
+}
