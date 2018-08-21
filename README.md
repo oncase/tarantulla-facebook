@@ -9,7 +9,7 @@
 
 ## **"Tarantulla-Facebook: the solution to gather Facebook data from publishers of your interest"**
 
-If you want to know more, check out Tarantulla's [landing page](http://tarantulla.io/) and our [post]() in Medium.
+If you want to know more, check out Tarantulla's [landing page](http://tarantulla.io/) and our [post](https://medium.com/oncase/conhecendo-o-tarantulla-facebook-28c03d139661) in Medium.
 
 On this document you will find information about: 
  
